@@ -1,5 +1,3 @@
-# Information_theory_project
-
 I wrote code in java reading three .txt files in three different languages and with
 the help of a menu the following functions are performed.
 
