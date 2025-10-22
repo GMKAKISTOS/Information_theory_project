@@ -1,16 +1,85 @@
-I wrote code in java reading three .txt files in three different languages and with
-the help of a menu the following functions are performed.
 
-Menu functions:
+<div align="center">
+  
+# Information Theory Project
 
-1. Read file.
-2. Character calculation.
-3. Calculation of the probability distribution.
-4. Calculation of the entropy of the distribution.
-5. Counting the number of resulting pairs.
-6. Calculation of the distribution in pairs of adjacent characters.
-7. Calculation of common entropy.
-8. Calculation of conditional entropy.
-9. Generate fixed code length per character in text.
-10. Generate a fixed code length per character pair in the text.
-11. Create Shannon-Fano encoding.
+</div>
+
+This project implements information theory concepts in Java. It reads three `.txt` files in different languages and performs character calculations, probability distribution analysis, entropy calculations, pair analysis, Shannon-Fano encoding, and fixed-length code generation through a menu-driven interface.
+
+## Features
+
+-   Reading `.txt` files in multiple languages.
+-   Character frequency calculation.
+-   Probability distribution analysis.
+-   Entropy calculation.
+-   Pair counting and distribution.
+-   Common and conditional entropy calculation.
+-   Fixed length code generation.
+-   Shannon-Fano encoding.
+
+## Table of Contents
+
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Dependencies](#dependencies)
+-   [Contributing](#contributing)
+-   [License](#license)
+-   [Contact](#contact)
+
+## Installation
+
+1.  Clone the repository:
+
+    ```bash
+    git clone https://github.com/panoschron97/Information_theory_project.git
+    ```
+
+2.  Navigate to the project directory:
+
+    ```bash
+    cd Information_theory_project
+    ```
+
+3.  Compile the Java source code. Using the `build.xml` file provided, you can use Apache Ant:
+
+    ```bash
+    ant compile
+    ```
+
+## Usage
+
+1.  Run the compiled Java program:
+
+    ```bash
+    ant run
+    ```
+
+    This will execute the main class and launch the menu-driven interface.
+
+2.  Follow the on-screen instructions to load files and perform information theory calculations.
+
+## Dependencies
+
+-   [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) - Version 8 or later.
+-   [Apache Ant](https://ant.apache.org/) - Build tool for compiling and running the project.
+
+## Contributing
+
+Contributions are welcome! Here’s how you can contribute:
+
+1.  Fork the repository.
+2.  Create a new branch for your feature or bug fix.
+3.  Make your changes and commit them with descriptive commit messages.
+4.  Push your changes to your fork.
+5.  Submit a pull request to the main repository.
+
+## License
+
+Inferred license (Placeholder - needs confirmation): [MIT License](LICENSE) (or similar permissive license)
+
+## Contact
+
+-   Maintainer: [Placeholder - Add maintainer name]
+-   Email: [Placeholder - Add contact email]
+```
