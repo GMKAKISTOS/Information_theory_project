@@ -1,9 +1,4 @@
-
-<div align="center">
-  
 # Information theory project
-
-</div>
 
 This project implements information theory concepts in Java. It reads three `.txt` files in different languages and performs character calculations, probability distribution analysis, entropy calculations, pair analysis, Shannon-Fano encoding, and fixed-length code generation through a menu-driven interface.
 
