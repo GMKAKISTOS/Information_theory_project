@@ -23,9 +23,6 @@ This project implements information theory concepts in Java. It reads three `.tx
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [Dependencies](#dependencies)
--   [Contributing](#contributing)
--   [License](#license)
--   [Contact](#contact)
 
 ## Installation
 
@@ -39,12 +36,6 @@ This project implements information theory concepts in Java. It reads three `.tx
 
     ```bash
     cd Information_theory_project
-    ```
-
-3.  Compile the Java source code. Using the `build.xml` file provided, you can use Apache Ant:
-
-    ```bash
-    ant compile
     ```
 
 ## Usage
@@ -62,24 +53,3 @@ This project implements information theory concepts in Java. It reads three `.tx
 ## Dependencies
 
 -   [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) - Version 8 or later.
--   [Apache Ant](https://ant.apache.org/) - Build tool for compiling and running the project.
-
-## Contributing
-
-Contributions are welcome! Here’s how you can contribute:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them with descriptive commit messages.
-4.  Push your changes to your fork.
-5.  Submit a pull request to the main repository.
-
-## License
-
-Inferred license (Placeholder - needs confirmation): [MIT License](LICENSE) (or similar permissive license)
-
-## Contact
-
--   Maintainer: [Placeholder - Add maintainer name]
--   Email: [Placeholder - Add contact email]
-```
