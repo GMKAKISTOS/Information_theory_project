@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# Information Theory Project
+# Information theory project
 
 </div>
 
