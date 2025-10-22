@@ -43,7 +43,10 @@ This project implements information theory concepts in Java. It reads three `.tx
 1.  Run the compiled Java program:
 
     ```bash
-    ant run
+    javac Icsd15222_information_theory.java
+    ```
+    ```bash
+    java Icsd15222_information_theory
     ```
 
     This will execute the main class and launch the menu-driven interface.
