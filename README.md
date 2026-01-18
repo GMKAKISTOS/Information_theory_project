@@ -24,7 +24,7 @@ This project implements information theory concepts in Java. It reads three `.tx
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/panoschron97/Information_theory_project.git
+    git clone https://github.com/GMKAKISTOS/Information_theory_project.git
     ```
 
 2.  Navigate to the project directory:
